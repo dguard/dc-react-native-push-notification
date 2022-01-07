@@ -129,7 +129,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.example"
+        applicationId "com.test.react_native_push_notification"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1

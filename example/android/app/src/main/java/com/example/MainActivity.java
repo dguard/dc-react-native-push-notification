@@ -1,4 +1,4 @@
-package com.example;
+package com.test.react_native_push_notification;
 
 import com.facebook.react.ReactActivity;
 
